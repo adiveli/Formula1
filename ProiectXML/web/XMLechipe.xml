@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSL.xsl"?>
+
+    <clasament>
+        <echipaC>
+            <numeE>Ferrari</numeE>
+            <puncte>54</puncte>
+            <pilot>Vettel Sebastian</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Mercedes</numeE>
+            <puncte>45</puncte>
+            <pilot>Hamilton Lewis</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Mercedes</numeE>
+            <puncte>40</puncte>
+            <pilot>Bottas Valtteri</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Red Bull</numeE>
+            <puncte>37</puncte>
+            <pilot>Ricciardo Daniel</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Ferrari</numeE>
+            <puncte>30</puncte>
+            <pilot>Raikkonen Kimi</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>McLaren</numeE>
+            <puncte>22</puncte>
+            <pilot>Alonso Fernando</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Renault Sport</numeE>
+            <puncte>22</puncte>
+            <pilot>Hulkenberg Nico</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Red Bull</numeE>
+            <puncte>18</puncte>
+            <pilot>Verstappen Max</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Toro Rosso</numeE>
+            <puncte>12</puncte>
+            <pilot>Gasly Pierre</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Haas</numeE>
+            <puncte>11</puncte>
+            <pilot>Magnussen Kevin</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>McLaren</numeE>
+            <puncte>6</puncte>
+            <pilot>Vandoorne Stoffel</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Renault Sport</numeE>
+            <puncte>3</puncte>
+            <pilot>Sainz Carlos Jr.</pilot>
+        </echipaC>
+    </clasament>

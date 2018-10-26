@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSL.xsl"?>
+<!DOCTYPE campionat SYSTEM "DTD.dtd">
+<campionat>
+    <echipe>
+        <echipa>
+            <nume>Mercedes AMG Petronas</nume>
+            <membri>
+                <membru1>Lewis Hamilton</membru1>
+                <membru2>Valteri Bottas</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Mercedes W08</sasiu>
+                <configuratie>motor termic V6 turbo + motor electric</configuratie>
+                <putere>1030</putere>
+                <frane></frane>
+            </monopost>
+            <imagine>Logo-AMG-Petronas-Motorsport-black</imagine>
+            <imagine1>lewisHamilton</imagine1>
+            <imagine2>valtteri-bottas-600x600</imagine2>
+        </echipa>
+        
+        <echipa>
+            <nume>Red Bull Racing</nume>
+            <membri>
+                <membru1>Daniel Ricciardo</membru1>
+                <membru2>Max Verstappen</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Red Bull RB13</sasiu>
+                <configuratie>motor termic V6 turbo + motor electric</configuratie>
+                <putere>~980CP (în regim de calificări)</putere>
+                <frane></frane>
+            </monopost>
+            <imagine>Red_Bull_Racing_logo</imagine>
+            <imagine1>DanielRicciardo</imagine1>
+            <imagine2>Max-Verstappen</imagine2>
+        </echipa>
+        
+        <echipa>
+            <nume>SCUDERIA FERRARI</nume>
+            <membri>
+                <membru1>Sebastian Vettel</membru1>
+                <membru2>Kimi Raikkonen</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Ferrari SF70-H</sasiu>
+                <configuratie>motor termic V6 turbo + motor electric</configuratie>
+                <putere>~1020CP (în regim de calificări)</putere>
+                <frane></frane>
+            </monopost>
+            <imagine>Logo-Scuderia-Ferrari-600x600</imagine>
+            <imagine1>SebastianVettel</imagine1>
+            <imagine2>KimiRaikkonen</imagine2>
+        </echipa>
+        
+        <echipa>
+            <nume>SAHARA FORCE INDIA</nume>
+            <membri>
+                <membru1>Sergio Perez</membru1>
+                <membru2>Esteban Ocon</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Force India VJM10</sasiu>
+                <configuratie>motor termic V6 turbo + motor electric</configuratie>
+                <putere>~1030CP (în regim de calificări)</putere>
+                <frane></frane>
+            </monopost>
+            <imagine>saharaForceIndia</imagine>
+            <imagine1>SergioPerez</imagine1>
+            <imagine2>EstebanOcon</imagine2>
+        </echipa>
+        
+        <echipa>
+            <nume>WILLIAMS MARTINI RACING</nume>
+            <membri>
+                <membru1>Felipe Massa</membru1>
+                <membru2>Lance Stroll</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Williams FW40</sasiu>
+                <configuratie>motor termic V6 turbo+ motor electric</configuratie>
+                <putere>~1030CP (în regim de calificări)</putere>
+                <frane></frane>
+            </monopost>
+            <imagine>williams-f1-logo</imagine>
+            <imagine1>FelipeMassa</imagine1>
+            <imagine2>LanceStroll</imagine2>
+        </echipa>
+        
+        <echipa>
+            <nume>McLAREN-HONDA</nume>
+            <membri>
+                <membru1>Fernando Alonso</membru1>
+                <membru2>Stoffel Vandoorne</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Williams McLaren MCL32</sasiu>
+                <configuratie>motor termic V6 turbo + motor electric</configuratie>
+                <putere>~950CP (în regim de calificări)</putere>
+                <frane>Brembo</frane>
+            </monopost>
+            <imagine>mclarenLogo</imagine>
+            <imagine1>FernandoAlonso</imagine1>
+            <imagine2>StoffelVandoorne</imagine2>
+        </echipa>
+        
+        <echipa>
+            <nume>SCUDERIA TORO ROSSO</nume>
+            <membri>
+                <membru1>Carlos Sainz Jr.</membru1>
+                <membru2>Daniil Kvyat</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Toro Rosso STR12</sasiu>
+                <configuratie>motor termic V6 turbo + motor electric</configuratie>
+                <putere>~980CP (în regim de calificări)</putere>
+                <frane></frane>
+            </monopost>
+            <imagine>Scuderia_Toro_Rosso_Logo</imagine>
+            <imagine1>CarlosSainzJr</imagine1>
+            <imagine2>DaniilKvyat</imagine2>
+        </echipa>
+        
+        <echipa>
+            <nume>HAAS F1 TEAM</nume>
+            <membri>
+                <membru1>Romain Grosjean</membru1>
+                <membru2>Kevin Magnussen</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Dallara / Haas VF-17</sasiu>
+                <configuratie>motor termic V6 turbo + motor electric</configuratie>
+                <putere>~1020CP (în regim de calificări)</putere>
+                <frane></frane>
+            </monopost>
+            <imagine>hassLogo</imagine>
+            <imagine1>RomainGrosjean</imagine1>
+            <imagine2>KevinMagnussen</imagine2>
+        </echipa>
+        
+        <echipa>
+            <nume>RENAULT SPORT F1 TEAM</nume>
+            <membri>
+                <membru1>Nico Hulkenberg</membru1>
+                <membru2>Jolyon Palmer</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Renault RS 17</sasiu>
+                <configuratie>motor termic V6 turbo + motor electric</configuratie>
+                <putere>~980CP (în regim de calificări)</putere>
+                <frane></frane>
+            </monopost>
+            <imagine>renaultLogo</imagine>
+            <imagine1>NicoHulkenberg</imagine1>
+            <imagine2>JolyonPalmer</imagine2>
+        </echipa>
+        
+        <echipa>
+            <nume>SAUBER F1 TEAM</nume>
+            <membri>
+                <membru1>Marcus Ericsson</membru1>
+                <membru2>Pascal Wehrlein</membru2>
+            </membri>
+            <monopost>
+                <sasiu>Sauber C36</sasiu>
+                <configuratie>motor termic V6 turbo +motor electric</configuratie>
+                <putere>~965 – 970CP (în regim de calificări)</putere>
+                <frane></frane>
+            </monopost>
+            <imagine>sauberLogo</imagine>
+            <imagine1>MarcusEricsson</imagine1>
+            <imagine2>PascalWehrlein</imagine2>
+        </echipa>  
+        
+    </echipe>
+    <regulamente>
+        <tehnic>
+            <regula>Mașinile de Formula 1 nu trebuie să aibă o lățime mai mare de 1.800 mm. Aceasta este măsurată atunci când pneurile sunt umflate la o presiune de 1.4 bar.</regula>
+            <regula>Înălțimea trebuie să fie de 950 mm. Nu există restricții privind lungimea.</regula>
+            <regula>Greutatea nu trebuie fie mai mică de 620 kg (aceasta include greutatea pilotului)</regula>
+            <regula>Șasiul trebuie să aibă atașate patru roți.</regula>
+            <regula>Motoarele sunt turbo, cu capacitatea cilindrică de 1.600 cmc. Cilindrii sunt în număr de sase, așezați în V la 90 de grade, fiecare cilindru având patru supape.</regula>
+            <regula>Greutatea unui motor trebuie să fie de minimum 95 kg.</regula>
+            <regula>Turația maximă a unui motor nu trebuie să fie mai mare de 15.000 rpm.</regula>
+            <regula>Singura sursă de energie permisă în afară de motor este sistemul de recuperare a energiei cinetice (KERS).</regula>
+            <regula>Transmisia se face pe două roți.</regula>
+            <regula>Numărul minim de trepte de viteză înainte este de 4, iar cel maxim de 8.</regula>
+            <regula>Este permis un singur sistem de frânare.</regula>
+            <regula>Răcirea frânelor cu lichid este interzisă.</regula>
+            <regula>Roțile din față trebuie să aibă lățimea între 305 și 355 mm.</regula>
+            <regula>Cockpit-ul trebuie construit pornind de la tiparul aprobat de FIA.</regula>
+            
+        </tehnic>
+        <sportiv>
+            <regula>Piloții trebuie să fie deținătorii unei superlicențe, care este valabilă un an. FIA poate oricând suspenda sau anula superlicența unui pilot.</regula>
+            <regula>La fiecare cursă există următorii oficiali: un director de cursă, un comisar permanent care supervizează procedura de start, trei comisari adiționali (unul fiind ales șef) posesori ai unei licențe FIA, un secretar de cursa și un comisar din partea țării organizatoare.</regula>
+            <regula>În timpul unui singur sezon o echipă nu poate folosi mai mult de patru piloți.</regula>
+            <regula>Cele două mașini ale unei echipe trebuie să fie vopsite identic.</regula>
+            <regula>Fiecare pilot are alocat un număr de concurs. Campionul mondial are alocat numărul 1.</regula>
+            <regula>Emblema echipei trebuie să apară în partea frontală a mașinii, iar numele pilotului în zona cockpit-ului.</regula>
+            <regula>Testele private se pot face doar pe circuite aprobate de FIA și sunt limitate la 15.000 de kilometri.</regula>
+            <regula>La finalul sesiunii de calificări toate monoposturile trebuie duse într-un Parc Închis până a doua zi dimineața, personalul echipelor neavând dreptul să facă modificări la mașini. Mașinile care termină cursa sunt și ele parcate în Parcul Închis.</regula>
+            <regula>Piloți nu pot avea disponibile mai mult de două mașini în același moment. Mașina nu se poate schimba după startul cursei.</regula>
+        </sportiv>
+    </regulamente>
+    <premii>
+        <premiu>Marele Premiu al României</premiu>
+        <premiu>Marele Premiu al Argentinei</premiu>
+        <premiu>Marele Premiu al Australiei</premiu>
+        <premiu>Marele Premiu al Austriei</premiu>
+        <premiu>Marele Premiu al Bahrainului</premiu>
+        <premiu>Marele Premiu al Belgiei</premiu>
+        <premiu>Marele Premiu al Braziliei</premiu>
+        <premiu>Marele Premiu al Marii Britanii</premiu>
+        <premiu>Marele Premiu al Canadei</premiu>
+        <premiu>Marele Premiu al Chinei</premiu>
+        <premiu>Marele Premiu al Franței</premiu>
+    </premii>
+    <clasament>
+        <echipaC>
+            <numeE>Ferrari</numeE>
+            <puncte>54</puncte>
+            <pilot>Vettel Sebastian</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Mercedes</numeE>
+            <puncte>45</puncte>
+            <pilot>Hamilton Lewis</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Mercedes</numeE>
+            <puncte>40</puncte>
+            <pilot>Bottas Valtteri</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Red Bull</numeE>
+            <puncte>37</puncte>
+            <pilot>Ricciardo Daniel</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Ferrari</numeE>
+            <puncte>30</puncte>
+            <pilot>Raikkonen Kimi</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>McLaren</numeE>
+            <puncte>22</puncte>
+            <pilot>Alonso Fernando</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Renault Sport</numeE>
+            <puncte>22</puncte>
+            <pilot>Hulkenberg Nico</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Red Bull</numeE>
+            <puncte>18</puncte>
+            <pilot>Verstappen Max</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Toro Rosso</numeE>
+            <puncte>12</puncte>
+            <pilot>Gasly Pierre</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Haas</numeE>
+            <puncte>11</puncte>
+            <pilot>Magnussen Kevin</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>McLaren</numeE>
+            <puncte>6</puncte>
+            <pilot>Vandoorne Stoffel</pilot>
+        </echipaC>
+        <echipaC>
+            <numeE>Renault Sport</numeE>
+            <puncte>3</puncte>
+            <pilot>Sainz Carlos Jr.</pilot>
+        </echipaC>
+    </clasament>
+</campionat>
